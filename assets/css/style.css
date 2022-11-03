@@ -61,3 +61,12 @@
 .fn-pr {
     font-family: PoppinsRegular;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    font-family: PoppinsRegular;
+}
