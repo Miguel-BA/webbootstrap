@@ -1,0 +1,63 @@
+
+
+@font-face {
+    font-family: PoppinsBold;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: PoppinsRegular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-purple {
+    background-color: #6209db;
+    border: #6209db;
+}
+
+.right  {
+    right: auto;
+}
+
+.imagenPhone {
+    width: 500px;
+    height: 600px;
+}
+
+.center {
+    text-align: center;
+}
+
+.enlaces li {
+    list-style: none;
+    display: inline;
+    padding: 30px 30px;
+    margin: 0 40px;
+      
+}
+
+.liapple {
+    width: 10px;
+    font-size: 40px;
+}
+
+.liandroid {
+    width: 10px;
+    font-size: 40px;
+}
+
+.mg {
+    margin: 0;
+}
+
+.fn-pb {
+    font-family: PoppinsBold;
+}
+
+.fn-pr {
+    font-family: PoppinsRegular;
+}
